@@ -56,6 +56,7 @@ document.addEventListener('DOMContentLoaded', function () {
             roomImage: [
                 'images/Hotel Royal Square/Deluxe Room/IMG-20240730-WA0218.jpg',
                 'images/Hotel Royal Square/Deluxe Room/IMG-20240730-WA0219.jpg',
+                'images/Hotel Royal Square/Deluxe Room/IMG-20240730-WA0218.jpg',
                 'images/Hotel Royal Square/Super Deluxe/IMG-20240730-WA0280.jpg'
             ]
         },
@@ -72,7 +73,8 @@ document.addEventListener('DOMContentLoaded', function () {
             roomImage: [
                 'images/Hotel Royal Square/Super Deluxe/IMG-20240730-WA0278.jpg',
                 'images/Hotel Royal Square/Super Deluxe/IMG-20240730-WA0279.jpg',
-                'images/Hotel Royal Square/Super Deluxe/IMG-20240730-WA0280.jpg'
+                'images/Hotel Royal Square/Super Deluxe/IMG-20240730-WA0280.jpg',
+                'images/Hotel Royal Square/Super Deluxe/IMG-20240730-WA0278.jpg',
             ]
         },
         family: {
