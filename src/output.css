@@ -471,7 +471,7 @@ video {
 
 #thumbnails img {
   height: 100px;
-  width: 210px;
+  width: 155px;
 }
 
 .relative-container {
@@ -842,10 +842,6 @@ video {
 
 .h-full {
   height: 100%;
-}
-
-.h-screen {
-  height: 100vh;
 }
 
 .max-h-\[80\%\] {
@@ -1386,16 +1382,6 @@ video {
     line-height: 2rem;
   }
 
-  .sm\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-  }
-
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
-
   .sm\:text-5xl {
     font-size: 3rem;
     line-height: 1;
@@ -1421,6 +1407,11 @@ video {
     inset: auto;
   }
 
+  .md\:mx-12 {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
   .md\:mx-8 {
     margin-left: 2rem;
     margin-right: 2rem;
@@ -1429,11 +1420,6 @@ video {
   .md\:mx-\[50px\] {
     margin-left: 50px;
     margin-right: 50px;
-  }
-
-  .md\:mx-12 {
-    margin-left: 3rem;
-    margin-right: 3rem;
   }
 
   .md\:mb-0 {
@@ -1482,10 +1468,6 @@ video {
 
   .md\:h-\[80\%\] {
     height: 80%;
-  }
-
-  .md\:h-auto {
-    height: auto;
   }
 
   .md\:w-1\/2 {
@@ -1554,11 +1536,6 @@ video {
 
   .md\:text-left {
     text-align: left;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
   }
 
   .md\:text-\[40px\] {

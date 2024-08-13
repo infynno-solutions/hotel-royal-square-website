@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
             roomImage: [
                 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0273.jpg',
                 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0213.jpg',
-                'images/Hotel Royal Square/Family Room/IMG-20240730-WA0214.jpg',
+                // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0214.jpg',
                 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0274.jpg',
                 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0275.jpg'
             ]
